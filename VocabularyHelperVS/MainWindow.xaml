@@ -6,7 +6,11 @@
         xmlns:local="clr-namespace:VocabularyHelperVS"
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
+    <Window.DataContext>
+        <local:VocabularyMainViewModel/>
+    </Window.DataContext>
     <Grid>
-        
+        <Button Content="Input new content"
+                Command="{Binding CmdInputNewContent}"/>
     </Grid>
 </Window>
