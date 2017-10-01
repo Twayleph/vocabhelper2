@@ -6,9 +6,6 @@
         xmlns:local="clr-namespace:VocabularyHelperVS"
         mc:Ignorable="d"
         Title="VocabularyInputWindow" Height="300" Width="300">
-    <Window.DataContext>
-        <local:VocabularyInputViewModel/>
-    </Window.DataContext>
 
     <Grid>
         <Grid.RowDefinitions>

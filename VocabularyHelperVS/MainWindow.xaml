@@ -9,8 +9,10 @@
     <Window.DataContext>
         <local:VocabularyMainViewModel/>
     </Window.DataContext>
-    <Grid>
+    <StackPanel>
         <Button Content="Input new content"
                 Command="{Binding CmdInputNewContent}"/>
-    </Grid>
+        <Button Content="Edit content"
+                Command="{Binding CmdEditContent}"/>
+    </StackPanel>
 </Window>
