@@ -33,6 +33,18 @@ namespace VocabularyHelperVS
             }
         }
 
+        private string translation;
+
+        public string Translation
+        {
+            get { return translation; }
+            set
+            {
+                translation = value;
+                RaisePropertyChanged();
+            }
+        }
+
 
         private string _vocabularyWordType = Constantes.WordType.Noun;
 

@@ -17,11 +17,17 @@
                     Orientation="Horizontal">
             <Button Content="_Save"
                     Command="{Binding Save}"/>
+            <Button Content="ToClipbard"
+                    Command="{Binding CopyToClipboard}"/>
+            <Button Content="Translate"
+                    Command="{Binding TranslationFromClipboard}"/>
         </StackPanel>
 
         <DataGrid Grid.Row="1"
                   ItemsSource="{Binding Words}"
                   AutoGenerateColumns="False"
+                  SelectionMode="Extended"
+                  SelectionUnit="CellOrRowHeader"
                   x:Name="dataGrid">
             <DataGrid.Columns>
                 <DataGridTextColumn Header="Word"
@@ -29,6 +35,9 @@
                                     Width="*"/>
                 <DataGridTextColumn Header="Notes"
                                     Binding="{Binding AdditionalContent}"
+                                    Width="*"/>
+                <DataGridTextColumn Header="Translation"
+                                    Binding="{Binding Translation}"
                                     Width="*"/>
                 <DataGridComboBoxColumn Header="Type"
                                         SelectedItemBinding="{Binding VocabularyWordType}"
