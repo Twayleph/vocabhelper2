@@ -55,6 +55,11 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="QuizViewModel.cs" />
+    <Compile Include="QuizWindow.xaml.cs">
+      <DependentUpon>QuizWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="VisibilityConverter.cs" />
     <Compile Include="VocabularyInputViewModel.cs" />
     <Compile Include="VocabularyInputWindow.xaml.cs">
       <DependentUpon>VocabularyInputWindow.xaml</DependentUpon>
@@ -77,6 +82,10 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="QuizWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="VocabularyInputWindow.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>

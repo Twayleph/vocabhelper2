@@ -18,11 +18,13 @@ namespace VocabularyHelperVS
 
         public DelegateCommand CmdInputNewContent { get; }
         public DelegateCommand CmdEditContent { get; }
+        public DelegateCommand CmdQuiz { get; }
 
         public VocabularyMainViewModel()
         {
             CmdInputNewContent = new DelegateCommand(InputNewContent);
             CmdEditContent = new DelegateCommand(EditContent);
+            CmdQuiz = new DelegateCommand(Quiz);
         }
 
         private void InputNewContent()
@@ -82,6 +84,18 @@ namespace VocabularyHelperVS
             }
             
             return null;
+        }
+
+        private void Quiz()
+        {
+            var words = LoadWords();
+
+            if (words != null)
+            {
+                var quizWindow = new QuizWindow();
+                quizWindow.DataContext = new QuizViewModel(words.Item2, words.Item1);
+                quizWindow.ShowDialog();
+            }
         }
     }
 }

@@ -14,5 +14,7 @@
                 Command="{Binding CmdInputNewContent}"/>
         <Button Content="Edit content"
                 Command="{Binding CmdEditContent}"/>
+        <Button Content="Quiz"
+                Command="{Binding CmdQuiz}"/>
     </StackPanel>
 </Window>
