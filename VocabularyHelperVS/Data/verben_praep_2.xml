@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfVocabularyWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <VocabularyWord>
+    <WordContent>bestehen aus</WordContent>
+    <AdditionalContent>+D</AdditionalContent>
+    <Translation>être composé de, consister de</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sich beteiligen an</WordContent>
+    <AdditionalContent>+D</AdditionalContent>
+    <Translation>participer à</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sich bewerben um</WordContent>
+    <AdditionalContent>+A</AdditionalContent>
+    <Translation>postuler pour</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sich beziehen auf</WordContent>
+    <AdditionalContent>+A</AdditionalContent>
+    <Translation>faire référence à</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>bitten um</WordContent>
+    <AdditionalContent>+A</AdditionalContent>
+    <Translation>demander qqchose</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>danken für</WordContent>
+    <AdditionalContent>+A</AdditionalContent>
+    <Translation>remercier de/pour</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>denken an</WordContent>
+    <AdditionalContent>+A</AdditionalContent>
+    <Translation>penser à</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>diskutieren mit</WordContent>
+    <AdditionalContent>+D über A</AdditionalContent>
+    <Translation>argumenter avec qqun au sujet de</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sich drehen um</WordContent>
+    <AdditionalContent>+A</AdditionalContent>
+    <Translation>tourner autour de</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>einladen zu</WordContent>
+    <AdditionalContent>+D</AdditionalContent>
+    <Translation>inviter à</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sich einigen auf</WordContent>
+    <AdditionalContent>+A</AdditionalContent>
+    <Translation>se décider au sujet de</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sich einsetzen für</WordContent>
+    <AdditionalContent>+A</AdditionalContent>
+    <Translation>soutenir</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sich entscheiden für</WordContent>
+    <AdditionalContent>+A</AdditionalContent>
+    <Translation>se décider à</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sich entschuldigen bei</WordContent>
+    <AdditionalContent>+D für A</AdditionalContent>
+    <Translation>s'excuse auprès de...pour...</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>erfahren von</WordContent>
+    <AdditionalContent>+D</AdditionalContent>
+    <Translation>apprendre qqchose</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sich erholen von</WordContent>
+    <AdditionalContent>+D</AdditionalContent>
+    <Translation>récupérer de</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sich erinnern an</WordContent>
+    <AdditionalContent>+A</AdditionalContent>
+    <Translation>se souvenir de</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>erkennen an</WordContent>
+    <AdditionalContent>+D</AdditionalContent>
+    <Translation>reconnaître d'après</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sich erkundigen bei</WordContent>
+    <AdditionalContent>+D über +A</AdditionalContent>
+    <Translation>se renseigner auprès de...au sujet de...</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>erzählen von</WordContent>
+    <AdditionalContent>+D</AdditionalContent>
+    <Translation>parler de (l'autre n'en connaît rien)</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>erzählen über</WordContent>
+    <AdditionalContent>+A</AdditionalContent>
+    <Translation>parler de (l'autre en connaît un peu)</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>fehlen an</WordContent>
+    <AdditionalContent>+D</AdditionalContent>
+    <Translation>manquer à</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>fragen nach</WordContent>
+    <AdditionalContent>+D</AdditionalContent>
+    <Translation>demander qqun</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+</ArrayOfVocabularyWord>

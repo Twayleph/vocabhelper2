@@ -57,7 +57,7 @@ namespace VocabularyHelperVS
             {
                 var dialog = new SaveFileDialog()
                 {
-                    InitialDirectory = Environment.CurrentDirectory,
+                    InitialDirectory = VocabularyMainViewModel.GetFileDirectory(),
                     Filter = "XML files (*.xml)|*.xml|All files (*.*)|*.*",
                     DefaultExt = "xml"
                 };

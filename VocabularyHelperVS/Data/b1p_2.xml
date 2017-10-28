@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfVocabularyWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <VocabularyWord>
+    <WordContent>unterwegs</WordContent>
+    <Translation>en route</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>der Passagier</WordContent>
+    <AdditionalContent>-e</AdditionalContent>
+    <Translation>le passager</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Strafe</WordContent>
+    <AdditionalContent>-n</AdditionalContent>
+    <Translation>la peine</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>das Verkehrsmittel</WordContent>
+    <AdditionalContent>-</AdditionalContent>
+    <Translation>le moyen de transport</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Vermutung</WordContent>
+    <AdditionalContent>-en</AdditionalContent>
+    <Translation>la présomption</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>der Vorschlag</WordContent>
+    <AdditionalContent>-¨e</AdditionalContent>
+    <Translation>la proposition</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>einverstanden sein</WordContent>
+    <Translation>accepter</Translation>
+    <VocabularyWordType>Verb</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>vermuten</WordContent>
+    <Translation>suspect</Translation>
+    <VocabularyWordType>Verb</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>gültig</WordContent>
+    <Translation>valide</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>öffentlich</WordContent>
+    <Translation>publiquement</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>eventuell</WordContent>
+    <Translation>peut-être</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>vermutlich</WordContent>
+    <Translation>probablement</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>wohl</WordContent>
+    <Translation>bien</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Bewegung</WordContent>
+    <AdditionalContent>-en</AdditionalContent>
+    <Translation>le mouvement</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>erfinden</WordContent>
+    <Translation>inventer</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>unterscheiden</WordContent>
+    <Translation>distinguer</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>verreisen</WordContent>
+    <Translation>s'en aller</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>drüben</WordContent>
+    <Translation>là</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Bedienung</WordContent>
+    <AdditionalContent>-en</AdditionalContent>
+    <Translation>l'opération</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Erfrischung</WordContent>
+    <AdditionalContent>-en</AdditionalContent>
+    <Translation>le rafraîchissement</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>der Sinn</WordContent>
+    <AdditionalContent>-e</AdditionalContent>
+    <Translation>la signification</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Speise</WordContent>
+    <AdditionalContent>-n</AdditionalContent>
+    <Translation>la nourriture</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>der Stress</WordContent>
+    <Translation>le stress</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sich entschliessen zu</WordContent>
+    <AdditionalContent>+ Dat</AdditionalContent>
+    <Translation>décider</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sich erholen</WordContent>
+    <Translation>récupérer</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>garantieren</WordContent>
+    <Translation>garantie</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>gelingen</WordContent>
+    <Translation>réussir</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>recht sein</WordContent>
+    <Translation>avoir raison</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>unsichtbar</WordContent>
+    <Translation>invisible</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>diesmal</WordContent>
+    <Translation>ce temps</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>zu viel</WordContent>
+    <Translation>trop</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>der Apparat</WordContent>
+    <AdditionalContent>-e</AdditionalContent>
+    <Translation>l'appareil</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>der Bericht</WordContent>
+    <AdditionalContent>-e</AdditionalContent>
+    <Translation>le rapport</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die (Werbe)Broschüre</WordContent>
+    <AdditionalContent>-n</AdditionalContent>
+    <Translation>la brochure (publicité)</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Form</WordContent>
+    <AdditionalContent>-en</AdditionalContent>
+    <Translation>la forme</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>das Klima</WordContent>
+    <AdditionalContent>die Klimata</AdditionalContent>
+    <Translation>le climat</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>der Nachteil</WordContent>
+    <AdditionalContent>-e</AdditionalContent>
+    <Translation>l'inconvénient</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Überschrift</WordContent>
+    <AdditionalContent>-en</AdditionalContent>
+    <Translation>l'en-tête</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Umwelt</WordContent>
+    <Translation>l'environnement</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Zukunft</WordContent>
+    <AdditionalContent>-¨e</AdditionalContent>
+    <Translation>l'avenir</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>(sich) abmelden</WordContent>
+    <Translation>se déconnecter</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>beheizen</WordContent>
+    <Translation>chaleur</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>erledigen</WordContent>
+    <Translation>prendre soin de</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>transportieren</WordContent>
+    <Translation>transport</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>(sich) verändern</WordContent>
+    <Translation>changer</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>verbinden</WordContent>
+    <Translation>relier</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>bequem</WordContent>
+    <Translation>confortable</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>bezahlbar</WordContent>
+    <Translation>payable</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sparsasm</WordContent>
+    <Translation>sparsasm</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>umweltfreundlich</WordContent>
+    <Translation>respectueux de l'environnement</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>entfernt</WordContent>
+    <Translation>supprimé</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Aussicht</WordContent>
+    <AdditionalContent>-en</AdditionalContent>
+    <Translation>la vue</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>der Kommentar</WordContent>
+    <AdditionalContent>-e</AdditionalContent>
+    <Translation>le commentaire</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>das Kriterium</WordContent>
+    <AdditionalContent>die Kriterien</AdditionalContent>
+    <Translation>le critère</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Kritik</WordContent>
+    <AdditionalContent>-en</AdditionalContent>
+    <Translation>la critique</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Lage</WordContent>
+    <AdditionalContent>-n</AdditionalContent>
+    <Translation>l'emplacement</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>führen</WordContent>
+    <Translation>conduire</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>verbringen</WordContent>
+    <Translation>passer</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>wert sein</WordContent>
+    <Translation>valoir la peine</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>unterschiedlich</WordContent>
+    <Translation>différent</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>steil</WordContent>
+    <Translation>abruptement</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>auf jeden Fall</WordContent>
+    <Translation>en tout cas</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>gewöhnlich</WordContent>
+    <AdditionalContent>antonym: un-</AdditionalContent>
+    <Translation>habituellement</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>aussergewöhnlich</WordContent>
+    <Translation>exceptionnellement</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>tatsächlich</WordContent>
+    <Translation>en fait</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>der Gegenstand</WordContent>
+    <AdditionalContent>-¨e</AdditionalContent>
+    <Translation>l'objet</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>funktionieren</WordContent>
+    <Translation>fonction</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>verstecken</WordContent>
+    <Translation>cacher</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Art</WordContent>
+    <AdditionalContent>-en</AdditionalContent>
+    <Translation>l'art</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Lebensgefahr</WordContent>
+    <AdditionalContent>-en</AdditionalContent>
+    <Translation>le danger de la vie</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>der Mond</WordContent>
+    <Translation>la lune</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>anstrengend</WordContent>
+    <Translation>épuisant</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>unbedingt</WordContent>
+    <Translation>tout à fait</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+</ArrayOfVocabularyWord>

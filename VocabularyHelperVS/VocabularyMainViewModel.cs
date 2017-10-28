@@ -46,11 +46,17 @@ namespace VocabularyHelperVS
             }
         }
 
+        public static string GetFileDirectory()
+        {
+            var rootFolder = new DirectoryInfo(Environment.CurrentDirectory).Parent.Parent.FullName;
+            return Path.Combine(rootFolder, "Data");
+        }
+
         private string GetLoadFilePath()
         {
             var dialog = new OpenFileDialog()
             {
-                InitialDirectory = Environment.CurrentDirectory,
+                InitialDirectory = GetFileDirectory(),
                 Filter = "XML files (*.xml)|*.xml|All files (*.*)|*.*",
                 DefaultExt = "xml"
             };

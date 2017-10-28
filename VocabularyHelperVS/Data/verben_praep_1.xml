@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfVocabularyWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <VocabularyWord>
+    <WordContent>abhängen von</WordContent>
+    <AdditionalContent>D</AdditionalContent>
+    <Translation>dépendre de (verbe commence par ab...)</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>abstimmen über</WordContent>
+    <AdditionalContent>A</AdditionalContent>
+    <Translation>voter au sujet de</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>achten auf</WordContent>
+    <AdditionalContent>A</AdditionalContent>
+    <Translation>prêter attention à</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>anfangen mit</WordContent>
+    <AdditionalContent>D</AdditionalContent>
+    <Translation>commencer qqchose</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>ankommen auf</WordContent>
+    <AdditionalContent>A</AdditionalContent>
+    <Translation>dépendre de (verbe commence par an...)</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>antworten auf</WordContent>
+    <AdditionalContent>A antworten jemandem auf etwas(A)</AdditionalContent>
+    <Translation>répondre à (un courriel...)</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>arbeiten an</WordContent>
+    <AdditionalContent>D</AdditionalContent>
+    <Translation>travailler sur</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sich ärgern über</WordContent>
+    <AdditionalContent>A</AdditionalContent>
+    <Translation>se fâcher de (aer)</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>auffordern zu</WordContent>
+    <AdditionalContent>D</AdditionalContent>
+    <Translation>demander de</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>aufhören mit</WordContent>
+    <AdditionalContent>D</AdditionalContent>
+    <Translation>arrêter de</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>aufklären über</WordContent>
+    <AdditionalContent>A</AdditionalContent>
+    <Translation>clarifier, expliquer qqchose</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>aufpassen auf</WordContent>
+    <AdditionalContent>A</AdditionalContent>
+    <Translation>prendre soin de</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sich aufregen über</WordContent>
+    <AdditionalContent>A</AdditionalContent>
+    <Translation>se fâcher de (auf)</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>ausgeben für</WordContent>
+    <AdditionalContent>A</AdditionalContent>
+    <Translation>dépenser sur (spend on)</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sich bedanken bei</WordContent>
+    <AdditionalContent>D für A</AdditionalContent>
+    <Translation>se remercier auprès de</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>beginnen mit</WordContent>
+    <AdditionalContent>D</AdditionalContent>
+    <Translation>commencer par</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sich bemühen um</WordContent>
+    <AdditionalContent>A</AdditionalContent>
+    <Translation>faire un effort avec</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>berichten über</WordContent>
+    <AdditionalContent>A</AdditionalContent>
+    <Translation>reporter (par ex. journal)</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sich beschäftigen mit</WordContent>
+    <AdditionalContent>D</AdditionalContent>
+    <Translation>se garder occupé avec</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sich beschweren bei</WordContent>
+    <AdditionalContent>D über A</AdditionalContent>
+    <Translation>se plaindre</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+</ArrayOfVocabularyWord>

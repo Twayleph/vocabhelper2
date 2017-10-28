@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfVocabularyWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <VocabularyWord>
+    <WordContent>verteilen</WordContent>
+    <Translation>distribuer</Translation>
+    <VocabularyWordType>Verb</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>mitten</WordContent>
+    <Translation>au milieu</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Einrichtung</WordContent>
+    <AdditionalContent>-en</AdditionalContent>
+    <Translation>le mobilier</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Unterkunft</WordContent>
+    <AdditionalContent>-¨e</AdditionalContent>
+    <Translation>le logement</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>der Kasten</WordContent>
+    <AdditionalContent>-¨</AdditionalContent>
+    <Translation>the box</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Agentur</WordContent>
+    <AdditionalContent>-en</AdditionalContent>
+    <Translation>l'agence</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Gebühr</WordContent>
+    <AdditionalContent>-en</AdditionalContent>
+    <Translation>la taxe</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>überhaupt</WordContent>
+    <Translation>absolument</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>der Bau</WordContent>
+    <AdditionalContent>-ten</AdditionalContent>
+    <Translation>la construction ou le bâtiment</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>behindert</WordContent>
+    <AdditionalContent />
+    <Translation>handicappé</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Stellung</WordContent>
+    <AdditionalContent>-en</AdditionalContent>
+    <Translation>la position</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>der Lärm</WordContent>
+    <AdditionalContent>singular</AdditionalContent>
+    <Translation>le bruit</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Vorstellung</WordContent>
+    <AdditionalContent>-en</AdditionalContent>
+    <Translation>la présentation</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>der Gedanke</WordContent>
+    <AdditionalContent>-n</AdditionalContent>
+    <Translation>la pensée</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>herrschen</WordContent>
+    <Translation>régner</Translation>
+    <VocabularyWordType>Verb</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>der Hausmeister</WordContent>
+    <AdditionalContent>-</AdditionalContent>
+    <Translation>le concierge</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>übernehmen</WordContent>
+    <Translation>se charger ou assumer</Translation>
+    <VocabularyWordType>Verb</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>innerhalb</WordContent>
+    <AdditionalContent>+ Gen</AdditionalContent>
+    <Translation>dans l'espace (de temps)</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>ausserhalb</WordContent>
+    <AdditionalContent>+ Gen</AdditionalContent>
+    <Translation>à l'extérieur de (temps)</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>inzwischen</WordContent>
+    <Translation>entre-temps</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>der Blitzumfrage</WordContent>
+    <AdditionalContent>-n</AdditionalContent>
+    <Translation>le sondage éclair</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>der Ersatz</WordContent>
+    <AdditionalContent>singular</AdditionalContent>
+    <Translation>le remplaçant</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>der Friede</WordContent>
+    <AdditionalContent>singular</AdditionalContent>
+    <Translation>la paix</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>skip</WordContent>
+    <AdditionalContent>skip</AdditionalContent>
+    <Translation>skip</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+</ArrayOfVocabularyWord>

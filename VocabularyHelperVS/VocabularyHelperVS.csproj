@@ -118,6 +118,14 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Data\b1p_1.xml" />
+    <None Include="Data\b1p_2.xml" />
+    <None Include="Data\b1p_4.xml" />
+    <None Include="Data\verben_praep_1.xml" />
+    <None Include="Data\verben_praep_2.xml" />
+    <None Include="Data\verben_praep_3.xml" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfVocabularyWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <VocabularyWord>
+    <WordContent>sich freuen auf</WordContent>
+    <AdditionalContent>A</AdditionalContent>
+    <Translation>avoir hâte à</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sich freuen über</WordContent>
+    <AdditionalContent>A</AdditionalContent>
+    <Translation>se réjouire de</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>führen zu</WordContent>
+    <AdditionalContent>D</AdditionalContent>
+    <Translation>mener à</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sich fürchten vor</WordContent>
+    <AdditionalContent>D</AdditionalContent>
+    <Translation>avoir peur de</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>gehen um</WordContent>
+    <AdditionalContent>A</AdditionalContent>
+    <Translation>impliquer, parler de, être au sujet de</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>gehören zu</WordContent>
+    <AdditionalContent>D</AdditionalContent>
+    <Translation>faire partie de</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>gelten als</WordContent>
+    <AdditionalContent>N</AdditionalContent>
+    <Translation>compter comme</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sich gewöhnen an</WordContent>
+    <AdditionalContent>A</AdditionalContent>
+    <Translation>s'habituer à</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>glauben an</WordContent>
+    <AdditionalContent>A</AdditionalContent>
+    <Translation>croire en</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>gratulieren zu</WordContent>
+    <AdditionalContent>D</AdditionalContent>
+    <Translation>féliciter pour</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>halten für</WordContent>
+    <AdditionalContent>A</AdditionalContent>
+    <Translation>prendre pour</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>halten von</WordContent>
+    <AdditionalContent>D</AdditionalContent>
+    <Translation>penser de</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>handeln von</WordContent>
+    <AdditionalContent>D</AdditionalContent>
+    <Translation>traiter de</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>helfen bei</WordContent>
+    <AdditionalContent>D</AdditionalContent>
+    <Translation>aider avec</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>hindern an</WordContent>
+    <AdditionalContent>D</AdditionalContent>
+    <Translation>empêcher de</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>hinweisen auf</WordContent>
+    <AdditionalContent>A</AdditionalContent>
+    <Translation>aviser de</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>hoffen auf</WordContent>
+    <AdditionalContent>A</AdditionalContent>
+    <Translation>espérer qqchose</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>hören von</WordContent>
+    <AdditionalContent>D</AdditionalContent>
+    <Translation>avoir des nouvelles de</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>impfen gegen</WordContent>
+    <AdditionalContent>A</AdditionalContent>
+    <Translation>vacciner contre</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sich informieren bei</WordContent>
+    <AdditionalContent>D über A</AdditionalContent>
+    <Translation>s'informer auprès de...sur...</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sich interessieren für</WordContent>
+    <AdditionalContent>A</AdditionalContent>
+    <Translation>s'intéresser à</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>kämpfen für</WordContent>
+    <AdditionalContent>A</AdditionalContent>
+    <Translation>se battre pour</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+</ArrayOfVocabularyWord>

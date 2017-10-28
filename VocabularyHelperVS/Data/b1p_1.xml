@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfVocabularyWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <VocabularyWord>
+    <WordContent>der Interviewer</WordContent>
+    <AdditionalContent>r</AdditionalContent>
+    <Translation>l'intervieweur</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Person</WordContent>
+    <AdditionalContent>-en</AdditionalContent>
+    <Translation>la personne</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>der Kontakt</WordContent>
+    <AdditionalContent>-e</AdditionalContent>
+    <Translation>le contact</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>zweimal</WordContent>
+    <Translation>deux fois</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>das Handy</WordContent>
+    <AdditionalContent>-s</AdditionalContent>
+    <Translation>le téléphone portable</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>das Interview</WordContent>
+    <AdditionalContent>-s</AdditionalContent>
+    <Translation>l'interview</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>das Nachricht</WordContent>
+    <AdditionalContent>-en</AdditionalContent>
+    <Translation>le message</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Reihenfolge</WordContent>
+    <AdditionalContent>-n</AdditionalContent>
+    <Translation>l'ordre</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>das Thema</WordContent>
+    <AdditionalContent>die Themen</AdditionalContent>
+    <Translation>le thème</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>chatten</WordContent>
+    <Translation>bavarder</Translation>
+    <VocabularyWordType>Verb</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>checken</WordContent>
+    <Translation>vérifier</Translation>
+    <VocabularyWordType>Verb</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>markieren</WordContent>
+    <Translation>marque</Translation>
+    <VocabularyWordType>Verb</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>online sein</WordContent>
+    <Translation>être en ligne</Translation>
+    <VocabularyWordType>Verb</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>skypen</WordContent>
+    <Translation>skyper</Translation>
+    <VocabularyWordType>Verb</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>twittern</WordContent>
+    <Translation>tweeter</Translation>
+    <VocabularyWordType>Verb</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>häufig</WordContent>
+    <Translation>souvent</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>immer</WordContent>
+    <Translation>toujours</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>manchmal</WordContent>
+    <Translation>parfois</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>nie</WordContent>
+    <Translation>jamais</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>oft</WordContent>
+    <Translation>souvent</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>selten</WordContent>
+    <Translation>rarement</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>der Chat</WordContent>
+    <AdditionalContent>-s</AdditionalContent>
+    <Translation>le chat</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>das Gerät</WordContent>
+    <AdditionalContent>-e</AdditionalContent>
+    <Translation>l'appareil</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Insel</WordContent>
+    <AdditionalContent>-n</AdditionalContent>
+    <Translation>l'île</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>das Netz</WordContent>
+    <AdditionalContent>-e</AdditionalContent>
+    <Translation>le filet</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>das Netzwerk</WordContent>
+    <AdditionalContent>-e</AdditionalContent>
+    <Translation>le réseau</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>der Rekord</WordContent>
+    <AdditionalContent>-e</AdditionalContent>
+    <Translation>le dossier</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>der Titel</WordContent>
+    <AdditionalContent>-</AdditionalContent>
+    <Translation>le titre</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>erhalten</WordContent>
+    <Translation>obtenir</Translation>
+    <VocabularyWordType>Verb</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>einsam</WordContent>
+    <Translation>solitaire</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>persönlich</WordContent>
+    <Translation>personnellement</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>regelmässig</WordContent>
+    <Translation>régulièrement</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sozial</WordContent>
+    <Translation>socialement</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>ungefähr</WordContent>
+    <Translation>environ</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>der Alltag</WordContent>
+    <Translation>la vie quotidienne</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>der Artikel</WordContent>
+    <AdditionalContent>-</AdditionalContent>
+    <Translation>l'article</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>der Ausdruck</WordContent>
+    <AdditionalContent>-¨e</AdditionalContent>
+    <Translation>l'expression</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Aussprache</WordContent>
+    <Translation>le débat</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>der Erfolg</WordContent>
+    <AdditionalContent>-e</AdditionalContent>
+    <Translation>le succès</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>das Ergebnis</WordContent>
+    <AdditionalContent>-se</AdditionalContent>
+    <Translation>le résultat</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Fremdsprache</WordContent>
+    <AdditionalContent>-n</AdditionalContent>
+    <Translation>la langue étrangère</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>das Gefühl</WordContent>
+    <AdditionalContent>-e</AdditionalContent>
+    <Translation>le sentiment</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Geschichte</WordContent>
+    <AdditionalContent>-n</AdditionalContent>
+    <Translation>l'histoire</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Kommunikation</WordContent>
+    <AdditionalContent>-en</AdditionalContent>
+    <Translation>la communication</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>der Kursleiter</WordContent>
+    <AdditionalContent>-</AdditionalContent>
+    <Translation>le responsable du cours</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Kursleiterin</WordContent>
+    <AdditionalContent>-nen</AdditionalContent>
+    <Translation>la responsable du cours</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>der Laut</WordContent>
+    <AdditionalContent>-e</AdditionalContent>
+    <Translation>le son</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>der (Lern)Typ</WordContent>
+    <AdditionalContent>-en</AdditionalContent>
+    <Translation>le type (d'apprentissage)</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>das Liebelingswort</WordContent>
+    <Translation>le mot favori</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Liste</WordContent>
+    <AdditionalContent>-n</AdditionalContent>
+    <Translation>la liste</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>das Original</WordContent>
+    <AdditionalContent>-e</AdditionalContent>
+    <Translation>l'original</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>das Redemittel</WordContent>
+    <AdditionalContent>-</AdditionalContent>
+    <Translation>la phrase utile</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Regel</WordContent>
+    <AdditionalContent>-n</AdditionalContent>
+    <Translation>la règle</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Rolle</WordContent>
+    <AdditionalContent>-n</AdditionalContent>
+    <Translation>le rôle</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>das Sprichwort</WordContent>
+    <AdditionalContent>-¨er</AdditionalContent>
+    <Translation>le proverbe</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>das Symbol</WordContent>
+    <AdditionalContent>-e</AdditionalContent>
+    <Translation>le symbole</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>das System</WordContent>
+    <AdditionalContent>-e</AdditionalContent>
+    <Translation>le système</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Tabelle</WordContent>
+    <AdditionalContent>-n</AdditionalContent>
+    <Translation>la table</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>das Training</WordContent>
+    <AdditionalContent>-s</AdditionalContent>
+    <Translation>la formation</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Übung</WordContent>
+    <AdditionalContent>-en</AdditionalContent>
+    <Translation>l'exercice</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>eine Rolle spielen</WordContent>
+    <Translation>jouer un rôle</Translation>
+    <VocabularyWordType>Verb</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>einsetzen</WordContent>
+    <Translation>utilisation</Translation>
+    <VocabularyWordType>Verb</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>schwerfallen</WordContent>
+    <AdditionalContent>es fällt mir schwer</AdditionalContent>
+    <Translation>difficile</Translation>
+    <VocabularyWordType>Verb</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>verbessern</WordContent>
+    <Translation>améliorer</Translation>
+    <VocabularyWordType>Verb</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>aktiv</WordContent>
+    <Translation>activement</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>notwendig</WordContent>
+    <Translation>nécessaire</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>nützlich</WordContent>
+    <Translation>utile</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>spannend</WordContent>
+    <Translation>palpitant</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>allerdings</WordContent>
+    <Translation>bien que</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>normalerweise</WordContent>
+    <Translation>normalement</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>der Eintrag</WordContent>
+    <AdditionalContent>-¨e</AdditionalContent>
+    <Translation>l'entrée</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>das Fachwort</WordContent>
+    <AdditionalContent>-¨er</AdditionalContent>
+    <Translation>le sujet</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>der Satz</WordContent>
+    <AdditionalContent>-¨e</AdditionalContent>
+    <Translation>la phrase</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>das Vorteil</WordContent>
+    <AdditionalContent>-e</AdditionalContent>
+    <Translation>l'avantage</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>das Wörterbuch</WordContent>
+    <AdditionalContent>-¨er</AdditionalContent>
+    <Translation>le dictionnaire</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>der Zweck</WordContent>
+    <AdditionalContent>-e</AdditionalContent>
+    <Translation>le but</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sich ansehen</WordContent>
+    <Translation>pour regarder</Translation>
+    <VocabularyWordType>Verb</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>nachschlagen</WordContent>
+    <Translation>chercher</Translation>
+    <VocabularyWordType>Verb</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>geeignet</WordContent>
+    <Translation>adapté</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>der Teilnehmer</WordContent>
+    <AdditionalContent>-</AdditionalContent>
+    <Translation>des participants</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Teilnehmerin</WordContent>
+    <AdditionalContent>-nen</AdditionalContent>
+    <Translation>le participant</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>das Ziel</WordContent>
+    <AdditionalContent>-e</AdditionalContent>
+    <Translation>le but</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>berichten</WordContent>
+    <Translation>rapporter</Translation>
+    <VocabularyWordType>Verb</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>nun</WordContent>
+    <Translation>maintenant</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+</ArrayOfVocabularyWord>
