@@ -28,6 +28,7 @@
                   AutoGenerateColumns="False"
                   SelectionMode="Extended"
                   SelectionUnit="CellOrRowHeader"
+                  CanUserDeleteRows="True"
                   x:Name="dataGrid">
             <DataGrid.Columns>
                 <DataGridTextColumn Header="Word"

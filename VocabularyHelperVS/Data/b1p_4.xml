@@ -132,10 +132,4 @@
     <Translation>la paix</Translation>
     <VocabularyWordType>Noun</VocabularyWordType>
   </VocabularyWord>
-  <VocabularyWord>
-    <WordContent>skip</WordContent>
-    <AdditionalContent>skip</AdditionalContent>
-    <Translation>skip</Translation>
-    <VocabularyWordType>Noun</VocabularyWordType>
-  </VocabularyWord>
 </ArrayOfVocabularyWord>
