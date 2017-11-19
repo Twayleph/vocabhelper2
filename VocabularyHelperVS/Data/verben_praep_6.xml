@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfVocabularyWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <VocabularyWord>
+    <WordContent>sich verlassen auf</WordContent>
+    <AdditionalContent>A</AdditionalContent>
+    <Translation>compter sur qqchose/qqun</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sich verlieben in</WordContent>
+    <AdditionalContent>A</AdditionalContent>
+    <Translation>tomber en amour avec</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sich verstehen mit</WordContent>
+    <AdditionalContent>D</AdditionalContent>
+    <Translation>s'entendre (bien, mal...) avec</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>verstehen von</WordContent>
+    <AdditionalContent>D</AdditionalContent>
+    <Translation>connaître au sujet de, comprendre</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sich vorbereiten auf</WordContent>
+    <AdditionalContent>A</AdditionalContent>
+    <Translation>se préparer pour</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>warnen vor</WordContent>
+    <AdditionalContent>D</AdditionalContent>
+    <Translation>to warn against</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>warten auf</WordContent>
+    <AdditionalContent>A</AdditionalContent>
+    <Translation>attendre après</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>werden zu</WordContent>
+    <AdditionalContent>D</AdditionalContent>
+    <Translation>devenir qqchose/qqun</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>wissen von</WordContent>
+    <AdditionalContent>D</AdditionalContent>
+    <Translation>en savoir sur</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sich wundern über</WordContent>
+    <AdditionalContent>A</AdditionalContent>
+    <Translation>se questionner au sujet de</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>zurecht kommen mit</WordContent>
+    <AdditionalContent>D</AdditionalContent>
+    <Translation>to get along with</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>zuschauen oder zusehen bei</WordContent>
+    <AdditionalContent>D</AdditionalContent>
+    <Translation>regarder qqun</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>zweifeln an</WordContent>
+    <AdditionalContent>D</AdditionalContent>
+    <Translation>douter de</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+</ArrayOfVocabularyWord>

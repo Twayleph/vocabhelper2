@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfVocabularyWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <VocabularyWord>
+    <WordContent>die Gelegenheit</WordContent>
+    <AdditionalContent>-en</AdditionalContent>
+    <Translation>the opportunity</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Geige</WordContent>
+    <AdditionalContent>-n</AdditionalContent>
+    <Translation>the Violin</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>ähnlich</WordContent>
+    <Translation>similar</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>das Wunderkind</WordContent>
+    <AdditionalContent>-er</AdditionalContent>
+    <Translation>le prodige</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>das Jahrhundert</WordContent>
+    <AdditionalContent>-e</AdditionalContent>
+    <Translation>le sciècle</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>klug</WordContent>
+    <Translation>intelligent</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>Österreich</WordContent>
+    <AdditionalContent>singular</AdditionalContent>
+    <Translation>Austria</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>talentiert</WordContent>
+    <Translation>talented</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>der Pianist</WordContent>
+    <AdditionalContent>-en</AdditionalContent>
+    <Translation>le pianiste</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Pianistin</WordContent>
+    <AdditionalContent>-nen</AdditionalContent>
+    <Translation>la pianiste</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>niemals</WordContent>
+    <Translation>jamais</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>der Star</WordContent>
+    <AdditionalContent>-s</AdditionalContent>
+    <Translation>la Star</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>niemand</WordContent>
+    <Translation>nobody</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>das Talent</WordContent>
+    <AdditionalContent>-e</AdditionalContent>
+    <Translation>the talent</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>nirgends</WordContent>
+    <Translation>nowhere</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>der Chor</WordContent>
+    <AdditionalContent>-¨e</AdditionalContent>
+    <Translation>the choir</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Flöte</WordContent>
+    <AdditionalContent>-n</AdditionalContent>
+    <Translation>the flute</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Gitarre</WordContent>
+    <AdditionalContent>-n</AdditionalContent>
+    <Translation>the guitar</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>das Instrument</WordContent>
+    <AdditionalContent>-e</AdditionalContent>
+    <Translation>the instrument</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>das Schlagzeug</WordContent>
+    <AdditionalContent>-e</AdditionalContent>
+    <Translation>the drums</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Trompte</WordContent>
+    <AdditionalContent>-n</AdditionalContent>
+    <Translation>the trumpet</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Veranstaltung</WordContent>
+    <AdditionalContent>-en</AdditionalContent>
+    <Translation>the event</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>planen</WordContent>
+    <Translation>to plan</Translation>
+    <VocabularyWordType>Verb</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>am liebsten</WordContent>
+    <Translation>préféré</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Eintrittskarte</WordContent>
+    <AdditionalContent>-n</AdditionalContent>
+    <Translation>the ticket</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>das Paar</WordContent>
+    <AdditionalContent>-e</AdditionalContent>
+    <Translation>the couple</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>der Tanz</WordContent>
+    <AdditionalContent>-¨e</AdditionalContent>
+    <Translation>the dance</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Vergangenheit</WordContent>
+    <AdditionalContent>singular</AdditionalContent>
+    <Translation>the past</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>der Walzer</WordContent>
+    <AdditionalContent>-</AdditionalContent>
+    <Translation>the Waltz</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>umtauschen</WordContent>
+    <Translation>échanger</Translation>
+    <VocabularyWordType>Verb</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>aktuell</WordContent>
+    <Translation>courant (adjectif)</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Anrede</WordContent>
+    <AdditionalContent>-n</AdditionalContent>
+    <Translation>the salutation</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Einleitung</WordContent>
+    <AdditionalContent>-en</AdditionalContent>
+    <Translation>the introduction</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Gastfreundschaft</WordContent>
+    <AdditionalContent>singular</AdditionalContent>
+    <Translation>the hospitality</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>bestätigen</WordContent>
+    <Translation>to confirm</Translation>
+    <VocabularyWordType>Verb</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>(sich) lohnen</WordContent>
+    <Translation>(to be) worthwile</Translation>
+    <VocabularyWordType>Verb</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>furchtbar</WordContent>
+    <Translation>awful</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>der Beitrag</WordContent>
+    <AdditionalContent>-¨e</AdditionalContent>
+    <Translation>the contribution</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>das Bundesland</WordContent>
+    <AdditionalContent>-¨er</AdditionalContent>
+    <Translation>la région admin de l'Allemagne</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>der Einfluss</WordContent>
+    <AdditionalContent>-¨e</AdditionalContent>
+    <Translation>the influence</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Erziehung</WordContent>
+    <AdditionalContent>singular</AdditionalContent>
+    <Translation>education</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>der Geschmack</WordContent>
+    <AdditionalContent>-¨e</AdditionalContent>
+    <Translation>the taste</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Gewalt</WordContent>
+    <AdditionalContent>singular</AdditionalContent>
+    <Translation>the violence</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Konzerthalle</WordContent>
+    <AdditionalContent>-n</AdditionalContent>
+    <Translation>the concert hall</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Institution</WordContent>
+    <AdditionalContent>-en</AdditionalContent>
+    <Translation>the institution</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>das Mitglied</WordContent>
+    <AdditionalContent>-er</AdditionalContent>
+    <Translation>the member</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>der Sänger</WordContent>
+    <AdditionalContent>-</AdditionalContent>
+    <Translation>le chanteur</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Sängerin</WordContent>
+    <AdditionalContent>-nen</AdditionalContent>
+    <Translation>la chanteuse</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>der Schaden</WordContent>
+    <AdditionalContent>-¨</AdditionalContent>
+    <Translation>the damage</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>das Verbot</WordContent>
+    <AdditionalContent>-e</AdditionalContent>
+    <Translation>the ban</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>die Zeile</WordContent>
+    <AdditionalContent>-n</AdditionalContent>
+    <Translation>la ligne</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>beeinflussen</WordContent>
+    <Translation>influence</Translation>
+    <VocabularyWordType>Verb</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>begründen</WordContent>
+    <Translation>justify</Translation>
+    <VocabularyWordType>Verb</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>darstellen</WordContent>
+    <Translation>represent</Translation>
+    <VocabularyWordType>Verb</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>entwickeln</WordContent>
+    <Translation>develop</Translation>
+    <VocabularyWordType>Verb</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>unterstützen</WordContent>
+    <Translation>support</Translation>
+    <VocabularyWordType>Verb</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>angeblich</WordContent>
+    <Translation>allegedly</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>fröhlich</WordContent>
+    <Translation>cheerfully</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>geschmacklos</WordContent>
+    <Translation>tasteless</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>klassisch</WordContent>
+    <Translation>classic</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>nah</WordContent>
+    <Translation>close</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>reif</WordContent>
+    <Translation>ripe</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>rockig</WordContent>
+    <Translation>rocking</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sanft</WordContent>
+    <Translation>doux</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>anders</WordContent>
+    <Translation>différent</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>daher</WordContent>
+    <Translation>therefore</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>damals</WordContent>
+    <Translation>back then</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>höchstens</WordContent>
+    <Translation>at the most</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>recht</WordContent>
+    <Translation>le droit</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sogar</WordContent>
+    <Translation>even</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sowieso</WordContent>
+    <Translation>anyway</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>das Ereignis</WordContent>
+    <AdditionalContent>-se</AdditionalContent>
+    <Translation>the event</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>der Rythmus</WordContent>
+    <AdditionalContent>die Rythmen</AdditionalContent>
+    <Translation>the rhythm</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>der Trend</WordContent>
+    <AdditionalContent>-s</AdditionalContent>
+    <Translation>the trend</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>mischen</WordContent>
+    <Translation>mélanger</Translation>
+    <VocabularyWordType>Verb</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>begeistert</WordContent>
+    <Translation>excited</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>obwohl</WordContent>
+    <Translation>although</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>trotzdem</WordContent>
+    <Translation>Nevertheless</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>das Studio</WordContent>
+    <AdditionalContent>-s</AdditionalContent>
+    <Translation>the studio</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>kopieren</WordContent>
+    <Translation>copier</Translation>
+    <VocabularyWordType>Verb</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>aufmerksam</WordContent>
+    <Translation>attentionné</Translation>
+    <VocabularyWordType>Adjective</VocabularyWordType>
+  </VocabularyWord>
+</ArrayOfVocabularyWord>

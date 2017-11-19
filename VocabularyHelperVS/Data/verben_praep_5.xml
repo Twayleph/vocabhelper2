@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfVocabularyWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <VocabularyWord>
+    <WordContent>(sich) schützen gegen</WordContent>
+    <AdditionalContent>+ A oder vor + D</AdditionalContent>
+    <Translation>se protéger de</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sehen nach</WordContent>
+    <AdditionalContent>D</AdditionalContent>
+    <Translation>aller voir quelqu'un</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sein für</WordContent>
+    <AdditionalContent>A</AdditionalContent>
+    <Translation>être en faveur de</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sein gegen</WordContent>
+    <AdditionalContent>A</AdditionalContent>
+    <Translation>être opposé à</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sorgen für</WordContent>
+    <AdditionalContent>A</AdditionalContent>
+    <Translation>s'occuper de qqun</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sprechen mit</WordContent>
+    <AdditionalContent>D über A</AdditionalContent>
+    <Translation>parler avec...de...</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sterben an</WordContent>
+    <AdditionalContent>D</AdditionalContent>
+    <Translation>mourir de</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>stimmen für</WordContent>
+    <AdditionalContent>A</AdditionalContent>
+    <Translation>voter pour</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>stimmen gegen</WordContent>
+    <AdditionalContent>A</AdditionalContent>
+    <Translation>votre contre</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>streiten mit</WordContent>
+    <AdditionalContent>D über A</AdditionalContent>
+    <Translation>se disputer avec...au sujet de...</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>teilnehmen an</WordContent>
+    <AdditionalContent>D</AdditionalContent>
+    <Translation>participer à</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>telefonieren mit</WordContent>
+    <AdditionalContent>D</AdditionalContent>
+    <Translation>parler au téléphone avec</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>träumen von</WordContent>
+    <AdditionalContent>D</AdditionalContent>
+    <Translation>rêver de</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sich treffen mit</WordContent>
+    <AdditionalContent>D</AdditionalContent>
+    <Translation>rencontrer qqun qu'on connaît déjà</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sich trennen von</WordContent>
+    <AdditionalContent>D</AdditionalContent>
+    <Translation>se séparer de</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>überreden zu</WordContent>
+    <AdditionalContent>D</AdditionalContent>
+    <Translation>convaincre (par persistence)</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>überzeugen von</WordContent>
+    <AdditionalContent>D</AdditionalContent>
+    <Translation>convaincre (par logique)</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sich unterhalten mit</WordContent>
+    <AdditionalContent>D über A</AdditionalContent>
+    <Translation>s'entretenir avec....de...</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sich unterscheiden von</WordContent>
+    <AdditionalContent>D</AdditionalContent>
+    <Translation>se différencier de</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sich verabreden mit</WordContent>
+    <AdditionalContent>D</AdditionalContent>
+    <Translation>prendre rendez-vous avec</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sich verabschieden von</WordContent>
+    <AdditionalContent>D</AdditionalContent>
+    <Translation>dire au-revoir à</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>vergleichen mit</WordContent>
+    <AdditionalContent>D</AdditionalContent>
+    <Translation>comparer avec</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+</ArrayOfVocabularyWord>

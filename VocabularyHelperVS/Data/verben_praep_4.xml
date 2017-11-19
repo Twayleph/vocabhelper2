@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfVocabularyWord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <VocabularyWord>
+    <WordContent>kämpfen gegen</WordContent>
+    <AdditionalContent>A</AdditionalContent>
+    <Translation>s'opposer à</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>klagen über</WordContent>
+    <AdditionalContent>A</AdditionalContent>
+    <Translation>se plaindre de</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>kommen auf</WordContent>
+    <AdditionalContent>A</AdditionalContent>
+    <Translation>en venir à</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>kommen zu</WordContent>
+    <AdditionalContent>D</AdditionalContent>
+    <Translation>arriver à</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sich konzentrieren auf</WordContent>
+    <AdditionalContent>A</AdditionalContent>
+    <Translation>se concentrer sur</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>sich kümmern um</WordContent>
+    <AdditionalContent>A</AdditionalContent>
+    <Translation>s'occuper de</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>lachen über</WordContent>
+    <AdditionalContent>A</AdditionalContent>
+    <Translation>rire de</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>leiden an</WordContent>
+    <AdditionalContent>D</AdditionalContent>
+    <Translation>souffrir de</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>leiden unter</WordContent>
+    <AdditionalContent>D</AdditionalContent>
+    <Translation>souffrir profondément de</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>liegen an</WordContent>
+    <AdditionalContent>D</AdditionalContent>
+    <Translation>to be down to something (attribution)</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>nachdenken über</WordContent>
+    <AdditionalContent>A</AdditionalContent>
+    <Translation>songer à</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>protestieren gegen</WordContent>
+    <AdditionalContent>A</AdditionalContent>
+    <Translation>protester contre</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>reagieren auf</WordContent>
+    <AdditionalContent>A</AdditionalContent>
+    <Translation>réagir à</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>rechnen mit</WordContent>
+    <AdditionalContent>D</AdditionalContent>
+    <Translation>compter sur</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>reden über</WordContent>
+    <AdditionalContent>A ou von D</AdditionalContent>
+    <Translation>parler de</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>riechen nach</WordContent>
+    <AdditionalContent>D</AdditionalContent>
+    <Translation>to stink of</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>schicken an</WordContent>
+    <AdditionalContent>A</AdditionalContent>
+    <Translation>envoyer à</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>schicken zu</WordContent>
+    <AdditionalContent>D</AdditionalContent>
+    <Translation>envoyer à</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>schimpfen auf</WordContent>
+    <AdditionalContent>oder über A</AdditionalContent>
+    <Translation>grogner contre</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>schmecken nach</WordContent>
+    <AdditionalContent>D</AdditionalContent>
+    <Translation>goûter comme</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+  <VocabularyWord>
+    <WordContent>schreiben an</WordContent>
+    <AdditionalContent>A</AdditionalContent>
+    <Translation>écrire à</Translation>
+    <VocabularyWordType>Noun</VocabularyWordType>
+  </VocabularyWord>
+</ArrayOfVocabularyWord>
