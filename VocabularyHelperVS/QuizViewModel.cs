@@ -71,11 +71,10 @@ namespace VocabularyHelperVS
         // TODO to allow fix words during quiz
         public string FilePath;
 
-        public QuizViewModel(IList<VocabularyWord> words, string filePath)
+        public QuizViewModel(IList<VocabularyWord> words)
         {
             Shuffle(words);
             Words = words.ToList();
-            FilePath = filePath;
             CurrentWordIndex = 0;
         }
 

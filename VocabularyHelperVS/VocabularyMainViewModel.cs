@@ -36,12 +36,12 @@ namespace VocabularyHelperVS
 
         private void EditContent()
         {
-            var words = LoadWords();
+            var words = LoadWords(multiFile: false);
 
-            if (words != null)
+            if (words != null && words.Count == 1)
             {
                 var edit = new VocabularyInputWindow();
-                edit.DataContext = new VocabularyInputViewModel(words.Item2, words.Item1);
+                edit.DataContext = new VocabularyInputViewModel(words[0].Item2, words[0].Item1);
                 edit.ShowDialog();
             }
         }
@@ -52,35 +52,41 @@ namespace VocabularyHelperVS
             return Path.Combine(rootFolder, "Data");
         }
 
-        private string GetLoadFilePath()
+        private string[] GetLoadFilePaths(bool multiFile)
         {
             var dialog = new OpenFileDialog()
             {
                 InitialDirectory = GetFileDirectory(),
                 Filter = "XML files (*.xml)|*.xml|All files (*.*)|*.*",
-                DefaultExt = "xml"
+                DefaultExt = "xml",
+                Multiselect = multiFile,
             };
 
             if (dialog.ShowDialog() == true)
             {
-                return dialog.FileName;
+                return dialog.FileNames;
             }
 
             return null;
         }
 
-        private Tuple<string, ObservableCollection<VocabularyWord>> LoadWords()
+        private IList<Tuple<string, ObservableCollection<VocabularyWord>>> LoadWords(bool multiFile)
         {
+            var list = new List<Tuple<string, ObservableCollection<VocabularyWord>>>();
+
             try
             {
-                var filePath = GetLoadFilePath();
+                var filePaths = GetLoadFilePaths(multiFile);
 
-                if (filePath != null)
+                if (filePaths != null && filePaths.Length > 0)
                 {
                     var ser = new XmlSerializer(typeof(ObservableCollection<VocabularyWord>));
-                    using (var reader = new StreamReader(filePath))
+                    foreach (var filePath in filePaths)
                     {
-                        return new Tuple<string, ObservableCollection<VocabularyWord>>(filePath, (ObservableCollection<VocabularyWord>)ser.Deserialize(reader));
+                        using (var reader = new StreamReader(filePath))
+                        {
+                            list.Add(new Tuple<string, ObservableCollection<VocabularyWord>>(filePath, (ObservableCollection<VocabularyWord>)ser.Deserialize(reader)));
+                        }
                     }
                 }
             }
@@ -88,18 +94,18 @@ namespace VocabularyHelperVS
             {
                 MessageBox.Show("Error has occured:" + ex.ToString());
             }
-            
-            return null;
+
+            return list;
         }
 
         private void Quiz()
         {
-            var words = LoadWords();
+            var words = LoadWords(multiFile: true);
 
             if (words != null)
             {
                 var quizWindow = new QuizWindow();
-                quizWindow.DataContext = new QuizViewModel(words.Item2, words.Item1);
+                quizWindow.DataContext = new QuizViewModel(words.SelectMany(w => w.Item2).ToList());
                 quizWindow.ShowDialog();
             }
         }
